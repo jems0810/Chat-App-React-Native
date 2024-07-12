@@ -1,6 +1,6 @@
 ## React Native Firebase Chat App
 
-A simple cross platform (iOS and Android) React Native anonymous chat app. This example was put together for [React Native School](https://www.reactnativeschool.com/build-a-chat-app/). Get started learning & mastering React Native for free!
+
 
 ![Reference Designs](./assets/reference.png)
 
@@ -18,6 +18,3 @@ A simple cross platform (iOS and Android) React Native anonymous chat app. This 
 
 ---
 
-This project was put together to serve as an example to help you in building your own React Native apps. Feel free to download it and tinker with it!
-
-Curious how it was built? I'll [walk you through it step-by-step](https://www.reactnativeschool.com/build-a-chat-app/).
